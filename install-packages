@@ -1,0 +1,2 @@
+#!/bin/sh
+pacman -S xorg xf86-video-amdgpu pulseaudio pulseaudio-alsa alacritty fish qtile adobe-source-code-pro-fonts adobe-source-sans-pro-fonts adobe-source-serif-pro-fonts htop

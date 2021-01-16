@@ -1,0 +1,5 @@
+#!/bin/sh
+useradd --create-home ben
+passwd ben
+usermod --append --groups wheel ben
+visudo
