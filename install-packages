@@ -1,2 +1,2 @@
 #!/bin/sh
-pacman -S xorg xf86-video-amdgpu pulseaudio pulseaudio-alsa alacritty fish qtile adobe-source-code-pro-fonts adobe-source-sans-pro-fonts adobe-source-serif-pro-fonts htop
+pacman -S git xorg xorg-xinit xf86-video-amdgpu pulseaudio pulseaudio-alsa pavucontrol alsa-utils alacritty zsh qtile adobe-source-code-pro-fonts adobe-source-sans-pro-fonts adobe-source-serif-pro-fonts htop gnu-free-fonts base-devel openssh python-psutil
